@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "content-manager",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0d114a11-1100-4f7a-b7db-9b2a9552f7bd",
+			"database_name": "contentManager"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
